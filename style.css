@@ -1,0 +1,53 @@
+.name{
+  font-family:Tahoma;
+  font-weight: 800;
+  font-style:italic;
+}
+#headshot.jpg{
+  max-width:50%;
+  max-height:50%;
+}
+
+
+.contactDetails{
+   color: white;
+}
+
+h1{
+     color:660708;
+     border-bottom: 2px solid #E5383B;
+     padding: 20px 0 0;
+}
+
+body{
+  font-family: 'Lato', helvetica, arial,sans-serif;
+  font-size:16px;
+  line-height: 1.6em;
+  margin:0;
+  background-color: white;
+}
+.container{
+  width:90%;
+  max-width: 800px;
+  margin: 30px auto;
+}
+.box-1{
+  background-color:#white;
+}
+
+
+p{
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color:#black;
+}
+
+h2{
+  color: black;
+}
+
+
+h3{
+  color: grey;
+}
